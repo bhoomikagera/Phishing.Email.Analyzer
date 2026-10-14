@@ -1,0 +1,6 @@
+From: PayPal Security <security@paypal-secure-login.com>
+Subject: Your account has been limited
+
+<p>Dear customer,</p>
+<p>We noticed unusual activity. Your account will be suspended within 24 hours unless you confirm your identity.</p>
+<p><a href="http://paypal-secure-login.com/verify">www.paypal.com/verify</a></p>

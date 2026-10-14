@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "label": "phishing",
+    "from": "PayPal Security <security@paypal-secure-login.com>",
+    "subject": "Your account has been limited",
+    "body": "<p>Dear customer,</p><p>We noticed unusual activity. Your account will be suspended within 24 hours unless you confirm your identity.</p><p><a href=\"http://paypal-secure-login.com/verify\">www.paypal.com/verify</a></p>"
+  },
+  {
+    "id": 2,
+    "label": "phishing",
+    "from": "Microsoft 365 Support <no-reply@micr0soft-support.com>",
+    "subject": "Password expires today",
+    "body": "<p>Your password will expire within 24 hours. <a href=\"http://micr0soft-support.com/keep\">Click here to keep your password</a> and avoid losing access to Outlook.</p>"
+  },
+  {
+    "id": 3,
+    "label": "phishing",
+    "from": "Amazon Orders <orders@amaz0n-delivery.net>",
+    "subject": "Order #114-2837 could not be delivered",
+    "body": "<p>Dear customer, your order could not be delivered. Update your delivery details here: http://bit.ly/3xYzAbc</p>"
+  },
+  {
+    "id": 4,
+    "label": "phishing",
+    "from": "Canada Revenue Agency <refund@cra-arc-refund.xyz>",
+    "subject": "You are eligible for a tax refund",
+    "body": "<p>You are eligible for a refund of $412.18. To receive it, confirm your identity and enter your social insurance number: https://cra-refund.xyz/claim</p>"
+  },
+  {
+    "id": 5,
+    "label": "phishing",
+    "from": "Netflix Billing <billing@netflix-account-update.com>",
+    "subject": "Payment declined - update your billing",
+    "body": "<p>Dear user,</p><p>Your membership will be suspended. <a href=\"https://netflix-account-update.com/pay\">Update billing information</a> to continue watching.</p>"
+  },
+  {
+    "id": 6,
+    "label": "phishing",
+    "from": "Scotiabank Alerts <alerts@scotiabank-online-secure.com>",
+    "subject": "Suspicious sign-in detected",
+    "body": "<p>We detected a suspicious sign-in. Verify your account immediately.</p><p><a href=\"http://203.0.113.45/scotia/login\">Sign in to Scotiabank</a></p>"
+  },
+  {
+    "id": 7,
+    "label": "phishing",
+    "from": "UofG IT Helpdesk <helpdesk@uoguelph-mail.com>",
+    "subject": "Mailbox quota full",
+    "body": "<p>Dear student,</p><p>Your email quota is full. Verify your password to avoid deactivation: <a href=\"https://uoguelph-mail.com/webmail\">Open webmail</a></p>"
+  },
+  {
+    "id": 8,
+    "label": "phishing",
+    "from": "Rewards Center <rewards@prize-center.top>",
+    "subject": "Congratulations! You have won",
+    "body": "<p>Congratulations! You have won a $1000 gift card. Claim your prize now: https://prize-center.top/claim</p>"
+  },
+  {
+    "id": 9,
+    "label": "phishing",
+    "from": "DHL Tracking <dhl-tracking@dhl-parcel-support.com>",
+    "subject": "Package on hold",
+    "body": "<p>Your package could not be delivered. Pay a $2.99 fee to reschedule: http://dhl-parcel-support.com/pay</p>"
+  },
+  {
+    "id": 10,
+    "label": "phishing",
+    "from": "Accounts Team <billing@vendor-invoices.net>",
+    "subject": "Invoice attached",
+    "body": "<p>Dear Sir/Madam, please see attached invoice_8841.zip. Final notice: open immediately to avoid late fees.</p>"
+  },
+  {
+    "id": 11,
+    "label": "phishing",
+    "from": "LinkedIn <notifications@linkedin-mail-alerts.com>",
+    "subject": "Someone viewed your profile",
+    "body": "<p>A recruiter viewed your profile. <a href=\"https://linkedin-mail-alerts.com/login\">View profile</a></p>"
+  },
+  {
+    "id": 12,
+    "label": "phishing",
+    "from": "Apple Support <support@apple-id-locked.com>",
+    "subject": "Your Apple ID has been locked",
+    "body": "<p>Your Apple ID has been locked for your protection. <a href=\"https://apple-id-locked.com/unlock\">appleid.apple.com</a></p>"
+  },
+  {
+    "id": 13,
+    "label": "phishing",
+    "from": "Google Docs <docs-share@g00gle-docs.com>",
+    "subject": "Shared document: Q3 Budget",
+    "body": "<p>A colleague shared a document with you. <a href=\"https://g00gle-docs.com/view\">Open in Docs</a></p>"
+  },
+  {
+    "id": 14,
+    "label": "phishing",
+    "from": "Payroll Department <payroll@company-hr-portal.xyz>",
+    "subject": "Action needed on your pay",
+    "body": "<p>Please update your direct deposit information before Friday so you are paid on time: https://company-hr-portal.xyz/direct-deposit</p>"
+  },
+  {
+    "id": 15,
+    "label": "phishing",
+    "from": "Tims Rewards <promo@timhortons-rewards.club>",
+    "subject": "Free coffee for a year",
+    "body": "<p>Take our short survey and get free coffee for a year! Limited time offer: https://timhortons-rewards.club/survey</p>"
+  },
+  {
+    "id": 16,
+    "label": "phishing",
+    "from": "Wallet Support <support@coinbase-wallet-verify.com>",
+    "subject": "Wallet access restricted",
+    "body": "<p>Your wallet will be suspended unless you confirm your password here: http://coinbase-wallet-verify.com/restore</p>"
+  },
+  {
+    "id": 17,
+    "label": "phishing",
+    "from": "Zoom <zoom@zoom-meetings-notify.com>",
+    "subject": "You missed a meeting",
+    "body": "<p>You missed a meeting. <a href=\"http://zoom-meetings-notify.com/rec\">View the recording</a></p>"
+  },
+  {
+    "id": 18,
+    "label": "phishing",
+    "from": "Dr. Patel <patel.prof.gmail@outlook-mail.me>",
+    "subject": "Quick favour",
+    "body": "<p>Hi, are you available? I need a quick favour. Please buy 4 gift card codes ASAP and send me the numbers. I am in a meeting and cannot call.</p>"
+  },
+  {
+    "id": 19,
+    "label": "phishing",
+    "from": "Canada Post <notices@canadapost-delivery.top>",
+    "subject": "Parcel on hold",
+    "body": "<p>Dear customer, your parcel is on hold. <a href=\"https://canadapost-delivery.top/hold\">Release parcel</a></p>"
+  },
+  {
+    "id": 20,
+    "label": "phishing",
+    "from": "Google <no-reply@accounts.google.com.security-alert.net>",
+    "subject": "Critical security alert",
+    "body": "<p>Critical alert: sign-in from a new device. Secure your account now: https://accounts.google.com.security-alert.net/signin</p>"
+  },
+  {
+    "id": 21,
+    "label": "legitimate",
+    "from": "CCS Helpdesk <helpdesk@uoguelph.ca>",
+    "subject": "Scheduled maintenance Saturday",
+    "body": "<p>Hello,</p><p>Systems will be down for maintenance Saturday from 2 to 4 AM. Details: <a href=\"https://www.uoguelph.ca/ccs\">uoguelph.ca/ccs</a></p>"
+  },
+  {
+    "id": 22,
+    "label": "legitimate",
+    "from": "Prof. Smith <smith@uoguelph.ca>",
+    "subject": "CIS*2520 Assignment 2 posted",
+    "body": "<p>Hi everyone, Assignment 2 is now on <a href=\"https://courselink.uoguelph.ca/\">CourseLink</a>. It is due in two weeks. Office hours are Tuesday at 2 PM.</p>"
+  },
+  {
+    "id": 23,
+    "label": "legitimate",
+    "from": "Teaching Assistant <ta@uoguelph.ca>",
+    "subject": "URGENT: Lab room change",
+    "body": "<p>URGENT: this week's lab section has moved to Room 120. See you there.</p>"
+  },
+  {
+    "id": 24,
+    "label": "legitimate",
+    "from": "PayPal <service@paypal.com>",
+    "subject": "Receipt for your payment",
+    "body": "<p>Hello Bhoomika, you sent a payment of $25.00. View details: <a href=\"https://www.paypal.com/activity\">paypal.com/activity</a></p>"
+  },
+  {
+    "id": 25,
+    "label": "legitimate",
+    "from": "Amazon.ca <shipment-tracking@amazon.ca>",
+    "subject": "Your package has shipped",
+    "body": "<p>Hello Bhoomika, your order has shipped. Track it: <a href=\"https://www.amazon.ca/progress-tracker\">Track package</a></p>"
+  },
+  {
+    "id": 26,
+    "label": "legitimate",
+    "from": "Netflix <info@netflix.com>",
+    "subject": "New device sign-in",
+    "body": "<p>Your account was used to sign in on a new device. If this was you, no action is needed. Otherwise, review it at <a href=\"https://www.netflix.com/account\">netflix.com/account</a>.</p>"
+  },
+  {
+    "id": 27,
+    "label": "legitimate",
+    "from": "Experience Guelph <coop@uoguelph.ca>",
+    "subject": "Reminder: co-op postings close soon",
+    "body": "<p>Reminder: several Winter 2027 postings close next week. Browse them at <a href=\"https://experience.uoguelph.ca\">Experience Guelph</a>.</p>"
+  },
+  {
+    "id": 28,
+    "label": "legitimate",
+    "from": "Store Manager <manager@gmail.com>",
+    "subject": "Next week's shifts",
+    "body": "<p>Hi team, next week's shifts are posted. Please confirm your availability by Friday. Thanks!</p>"
+  },
+  {
+    "id": 29,
+    "label": "legitimate",
+    "from": "LinkedIn <jobs-noreply@linkedin.com>",
+    "subject": "5 new co-op jobs for you",
+    "body": "<p>Jobs matching your search: <a href=\"https://www.linkedin.com/jobs\">linkedin.com/jobs</a></p>"
+  },
+  {
+    "id": 30,
+    "label": "legitimate",
+    "from": "Scotiabank <alerts@scotiabank.com>",
+    "subject": "Your statement is ready",
+    "body": "<p>Hello, your monthly statement is ready. Sign in at <a href=\"https://www.scotiabank.com/ca/en/personal.html\">scotiabank.com</a> to view it.</p>"
+  },
+  {
+    "id": 31,
+    "label": "legitimate",
+    "from": "Sam <sam.k@gmail.com>",
+    "subject": "Study group tonight",
+    "body": "<p>Hey, study group is at 7 tonight in the library. Bring your notes from week 4!</p>"
+  },
+  {
+    "id": 32,
+    "label": "legitimate",
+    "from": "GitLab <gitlab@gitlab.socs.uoguelph.ca>",
+    "subject": "Pipeline passed for main",
+    "body": "<p>Your pipeline #482 passed. View it at https://gitlab.socs.uoguelph.ca/bgera/project/-/pipelines/482</p>"
+  },
+  {
+    "id": 33,
+    "label": "legitimate",
+    "from": "Google <no-reply@accounts.google.com>",
+    "subject": "Security alert",
+    "body": "<p>New sign-in on Mac. If this was you, you don't need to do anything. If not, <a href=\"https://accounts.google.com/AccountChooser\">check your activity</a>.</p>"
+  },
+  {
+    "id": 34,
+    "label": "legitimate",
+    "from": "Apple <no_reply@email.apple.com>",
+    "subject": "Your receipt from Apple",
+    "body": "<p>Hello Bhoomika, thank you for your purchase. View your receipt at <a href=\"https://www.apple.com/ca/\">apple.com</a>.</p>"
+  },
+  {
+    "id": 35,
+    "label": "legitimate",
+    "from": "DHL Express <noreply@dhl.com>",
+    "subject": "Your shipment is out for delivery",
+    "body": "<p>Your shipment is out for delivery today. Track it: <a href=\"https://www.dhl.com/track\">dhl.com/track</a></p>"
+  },
+  {
+    "id": 36,
+    "label": "legitimate",
+    "from": "Campus Events <events@uoguelph.ca>",
+    "subject": "This week on campus",
+    "body": "<p>Dear student,</p><p>Here is what is happening this week. RSVP for the career fair: http://bit.ly/uog-career-fair</p>"
+  },
+  {
+    "id": 37,
+    "label": "legitimate",
+    "from": "Microsoft <no-reply@microsoft.com>",
+    "subject": "Your Microsoft 365 subscription renews soon",
+    "body": "<p>Hello, your Microsoft 365 subscription renews on Nov 3. Manage it at <a href=\"https://account.microsoft.com/services\">account.microsoft.com</a>.</p>"
+  },
+  {
+    "id": 38,
+    "label": "legitimate",
+    "from": "Canada Post <no-reply@canadapost.ca>",
+    "subject": "Delivery notice",
+    "body": "<p>We attempted delivery of your item. Track it: <a href=\"https://www.canadapost-postescanada.ca/track\">canadapost-postescanada.ca</a></p>"
+  },
+  {
+    "id": 39,
+    "label": "legitimate",
+    "from": "Zoom <no-reply@zoom.us>",
+    "subject": "Your meeting recording is ready",
+    "body": "<p>Your cloud recording is ready: https://us02web.zoom.us/rec/share/abc123</p>"
+  },
+  {
+    "id": 40,
+    "label": "legitimate",
+    "from": "RBC Royal Bank <noreply@rbc.com>",
+    "subject": "Please review a recent transaction",
+    "body": "<p>For your security, we will never ask for your password by email. Action required: review a recent transaction within 48 hours by signing in at <a href=\"https://www.rbcroyalbank.com/\">rbcroyalbank.com</a>.</p>"
+  }
+]
